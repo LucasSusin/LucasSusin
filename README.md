@@ -34,7 +34,9 @@
 
 <!-- Social Media links -->
 
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucassimonsusin/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+</p>
 
 
 *************
@@ -63,5 +65,3 @@
 </a>
 
 </details>
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
