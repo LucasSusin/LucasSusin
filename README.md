@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Lucas - aka Susin 👋
 
 
 
 *************
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ### 🔧 &nbsp; Preferred Technologies & Tools...
 <p align="center">
@@ -26,9 +31,7 @@
 
 <!-- Social Media links -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucassimonsusin/"><img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/social-media/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-</p>
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <!-- GitHub Stats -->
@@ -54,3 +57,5 @@
 </a>
 
 </details>
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
