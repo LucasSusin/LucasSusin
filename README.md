@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://lT0-l79ETeCb5muypjOfCQ.vercel.app/api/spotify/)](https://open.spotify.com/user/lT0-l79ETeCb5muypjOfCQ)
+[![Spotify](https://spotify-rho.vercel.app/api/spotify/)](https://open.spotify.com/user/lucas_susin)
 
 *************
 
