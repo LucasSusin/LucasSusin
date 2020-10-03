@@ -18,15 +18,18 @@
   <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/visualstudio_code" alt="visualstudio_code" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="cs_dotnet" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/" alt="mobile_development" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/reactnative.svg" alt="reactnative" style="vertical-align:top; margin:4px">
 
 </p>
 
