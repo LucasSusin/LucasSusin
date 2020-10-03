@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-git-master.lucassusin.vercel.app/api/spotify)](https://open.spotify.com/user/NZi60zOuQ3aktwm4_6i8bQ)
+[![Spotify](https://spotify-rho.vercel.app/api/spotify)](https://open.spotify.com/user/lucas_susin?si=lT0-l79ETeCb5muypjOfCQ)
 
 *************
 
