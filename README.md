@@ -12,19 +12,15 @@
 
 *************
 
-### 🔧 &nbsp; Technologies & Tools...
+### 🔧 &nbsp; Preferred Technologies & Tools...
 <p align="center">
 
   <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
   
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/android_studio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/reactnative.svg" alt="reactnative" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
