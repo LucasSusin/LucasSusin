@@ -3,7 +3,7 @@
 <!-- GitHub Stats -->
 
 <a href="https://github.com/LucasSusin/LucasSusin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSusin&count_private=true&show_icons=true&theme=tokyonight" alt="Lucas' stats" />
+  <img align="center" src="https://github-readme-stats-rouge-eight.vercel.app/api?username=LucasSusin&count_private=true&show_icons=true&theme=tokyonight" alt="Lucas' stats" />
 </a>
 
 <a href="https://github.com/LucasSusin/LucasSusin">
