@@ -6,8 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-git-master.lucassusin.vercel.app/api/spotify-playing" alt="Lucas Spotify Playing" width="350" />](https://open.spotify.com/user/NZi60zOuQ3aktwm4_6i8bQ)
-
+[![Spotify](https://novatorem-git-master.lucassusin.vercel.app/api/spotify)](https://open.spotify.com/user/NZi60zOuQ3aktwm4_6i8bQ)
 
 *************
 
