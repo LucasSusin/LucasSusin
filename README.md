@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.lucassusin.vercel.app/api/spotify-playing" alt="Lucas Spotify Playing" width="350" />](https://open.spotify.com/user/lucas_susin?si=NZi60zOuQ3aktwm4_6i8bQ)
+[<img src="https://novatorem-9i4ay3bz4.vercel.app/api/spotify-playing" alt="Lucas Spotify Playing" width="350" />](https://open.spotify.com/user/lucas_susin?si=NZi60zOuQ3aktwm4_6i8bQ)
 
 
 *************
