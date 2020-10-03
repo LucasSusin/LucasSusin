@@ -49,6 +49,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#10](https://github.com/F4NT0/ages-online-git/issues/10) in [F4NT0/ages-online-git](https://github.com/F4NT0/ages-online-git)
+<!--END_SECTION:activity-->
 
 
 
