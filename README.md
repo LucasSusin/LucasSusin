@@ -18,6 +18,8 @@
   <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
   
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/android_studio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
