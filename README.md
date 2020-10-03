@@ -27,9 +27,9 @@
 
 <img align="center" alt="TypeScript" width="50px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 
-<img align="center" alt="Flutter" width="60px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />
+<img align="center" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />
 
-<img align="center" alt="Firebase" width="26px" src="https://firebase.google.cn/downloads/brand-guidelines/PNG/logo-vertical.png" />
+<img align="center" alt="Firebase" width="40px" src="https://firebase.google.cn/downloads/brand-guidelines/PNG/logo-vertical.png" />
 
 <img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
