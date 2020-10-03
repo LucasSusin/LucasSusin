@@ -42,7 +42,7 @@
 
 
 
-<!--END_SECTION:activity-->
+
 
 </details>
 
