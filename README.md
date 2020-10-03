@@ -15,6 +15,8 @@
 <p align="center">
 
   <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- For more icons https://simpleicons.org/ -->
+  <!-- For more icons https://github.com/Ileriayo/markdown-badges -->
   
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
