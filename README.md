@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/LucasSusin/LucasSusin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSusin&layout=compact&theme=tokyonight" alt="Lucas' stats" /> 
+  <img align="center" src="github-readme-stats-rouge-eight.vercel.app/api/top-langs/?username=LucasSusin&layout=compact&theme=tokyonight" alt="Lucas' stats" /> 
 </a>
 
 *************
