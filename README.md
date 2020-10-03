@@ -34,5 +34,5 @@
 <!-- Social Media links -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucassimonsusin/"><img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/social-media/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/lucassimonsusin/"><img src="https://github.com/LucasSusin/LucasSusin/blob/master/assets/svg/social-media/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
