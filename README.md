@@ -11,7 +11,7 @@
 *************
 
 
-### 🔧 &nbsp; Languages and Tools:
+### Languages and Tools 🔧 
 <p align="center">
 
   <!-- For more icons https://github.com/MikeCodesDotNET/ColoredBadges -->
