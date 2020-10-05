@@ -23,13 +23,9 @@
 
 <img align="center" alt="Python" width="50px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 
-<img align="center" alt="Flutter" width="100px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" />
-
 <img align="center" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="center" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="center" alt="TypeScript" width="50px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />
 
 <img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -48,8 +44,6 @@
 <img align="center" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="center" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 </p>
 
