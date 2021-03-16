@@ -41,10 +41,6 @@
 
 <img align="center" alt="Neo4j" width="100px" src="https://e7.pngegg.com/pngimages/248/75/png-clipart-neo4j-graph-database-logo-organization-wechat-load-graph-text-logo.png" />
 
-<img align="center" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
 </p>
 
 <br />
