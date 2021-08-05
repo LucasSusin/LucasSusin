@@ -19,7 +19,7 @@
   <!-- For more icons https://github.com/Ileriayo/markdown-badges -->
   
 
-<img align="center" alt="Python" width="50px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+<img align="center" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
 
 <img align="center" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
