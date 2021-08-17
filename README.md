@@ -5,10 +5,9 @@
 <!-- GitHub Stats -->
 
 <div>
-  <img align="left" alt="Lucas" src="https://github-readme-stats-rouge-eight.vercel.app/api?username=LucasSusin&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <a href="https://github.com/LucasSusin/LucasSusin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSusin&layout=compact&theme=tokyonight" alt="Lucas' stats" /> 
-  </a>
+  <img height="180em" src="https://github-readme-stats-rouge-eight.vercel.app/api?username=LucasSusin&count_private=true&show_icons=true&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSusin&layout=compact&theme=tokyonight"/>
 </div>
 
 *************
